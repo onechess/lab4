@@ -1,0 +1,12 @@
+xmp {
+    display: inline;
+}
+
+.mark {
+    background-color: yellow;
+    color: black;
+}
+
+#search-field {
+    margin: 0;
+}
